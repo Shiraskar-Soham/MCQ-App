@@ -1,0 +1,20 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["London", "Paris", "Berlin", "Rome"],
+      "answer": "Paris",
+      "audioUrl": "https://your-audio-hosting-domain/question1.mp3"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Jupiter", "Mars", "Venus"],
+      "answer": "Jupiter",
+      "audioUrl": "https://your-audio-hosting-domain/question2.mp3"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Leonardo da Vinci", "Michelangelo", "Vincent van Gogh", "Claude Monet"],
+      "answer": "Leonardo da Vinci",
+      "audioUrl": "https://your-audio-hosting-domain/question3.mp3"
+    }
+  ]
